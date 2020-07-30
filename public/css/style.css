@@ -34,7 +34,7 @@ img {
 
 .section-b {
   position: relative;
-  background: url('/assets/images/bg_1.jpg') no-repeat bottom center/cover;
+  background: url('/public/images/bg_1.jpg') no-repeat bottom center/cover;
   height: 600px;
 }
 
